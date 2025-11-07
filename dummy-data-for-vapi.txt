@@ -1,0 +1,115 @@
+# CuraLink Platform - Dummy Data for VAPI Voice Assistant
+
+## Expert Profiles
+
+### Dr. Sarah Johnson
+- Specialty: Oncology Specialist
+- Experience: 15+ years in cancer research and treatment
+- Expertise: Specializes in immunotherapy trials
+- Contact: Available for consultations
+
+### Dr. Michael Chen
+- Specialty: Cardiology Research
+- Experience: Leading cardiovascular clinical trials
+- Expertise: Expert in heart disease prevention
+- Contact: Available for consultations
+
+### Dr. Emily Rodriguez
+- Specialty: Neurology Expert
+- Experience: 20+ years clinical trial experience
+- Expertise: Alzheimer's and dementia research
+- Contact: Available for consultations
+
+### Dr. James Wilson
+- Specialty: Diabetes Specialist
+- Experience: Type 1 & 2 diabetes management
+- Expertise: Focus on innovative insulin therapies
+- Contact: Available for consultations
+
+### Dr. Lisa Park
+- Specialty: Respiratory Medicine
+- Experience: COPD and asthma clinical trials
+- Expertise: Expert in pulmonary rehabilitation
+- Contact: Available for consultations
+
+### Dr. Robert Kumar
+- Specialty: Immunology Research
+- Experience: Leading vaccine development trials
+- Expertise: Autoimmune disease specialist
+- Contact: Available for consultations
+
+---
+
+## Clinical Trials
+
+### Trial 1: Phase III Cancer Immunotherapy Trial
+- Description: Testing new immunotherapy approach for advanced melanoma patients
+- Category: Oncology
+- Phase: Phase III
+- Status: Recruiting
+- Location: Johns Hopkins Hospital, Baltimore, MD
+- Duration: 24 months
+
+### Trial 2: Type 2 Diabetes Management Study
+- Description: Novel oral medication for blood sugar control in diabetic patients
+- Category: Endocrinology
+- Phase: Phase II
+- Status: Recruiting
+- Location: Mayo Clinic, Rochester, MN
+- Duration: 18 months
+
+### Trial 3: Alzheimer's Prevention Trial
+- Description: Early intervention study for individuals at risk of cognitive decline
+- Category: Neurology
+- Phase: Phase III
+- Status: Recruiting
+- Location: Stanford Medical Center, Stanford, CA
+- Duration: 36 months
+
+### Trial 4: Heart Failure Treatment Study
+- Description: Evaluating new treatment for chronic heart failure patients
+- Category: Cardiology
+- Phase: Phase III
+- Status: Recruiting
+- Location: Cleveland Clinic, Cleveland, OH
+- Duration: 24 months
+
+### Trial 5: Asthma Control Innovation Trial
+- Description: New inhaler technology for severe asthma management
+- Category: Respiratory
+- Phase: Phase II
+- Status: Recruiting
+- Location: Mass General Hospital, Boston, MA
+- Duration: 12 months
+
+---
+
+## Quick Facts for Voice Assistant
+
+### Platform Name
+CuraLink
+
+### Platform Purpose
+Connecting patients with clinical trials and medical experts for better healthcare outcomes
+
+### Available Features
+- Browse clinical trials by specialty
+- Connect with medical experts
+- AI-powered chatbot for health questions
+- Voice assistant for hands-free interaction
+- Save favorite trials and experts
+
+### Supported Medical Specialties
+- Oncology (Cancer)
+- Cardiology (Heart)
+- Neurology (Brain & Nerves)
+- Endocrinology (Diabetes & Hormones)
+- Respiratory Medicine (Lungs)
+- Immunology (Immune System)
+
+### How to Get Started
+1. Sign up or log in to the platform
+2. Complete your health profile
+3. Browse available trials and experts
+4. Connect with AI assistant for personalized recommendations
+5. Save items of interest and apply to trials
