@@ -57,6 +57,18 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        indigo: {
+          50: "hsl(243 100% 98%)",
+          100: "hsl(243 100% 96%)",
+          200: "hsl(243 95% 92%)",
+          300: "hsl(243 90% 85%)",
+          400: "hsl(243 85% 70%)",
+          500: "hsl(243 75% 59%)",
+          600: "hsl(243 75% 50%)",
+          700: "hsl(243 75% 42%)",
+          800: "hsl(243 70% 35%)",
+          900: "hsl(243 65% 28%)",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
